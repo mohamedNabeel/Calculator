@@ -1,0 +1,16 @@
+
+
+
+#gridPane{-fx-background-color: black}
+
+#pane{ -fx-background-color: #2e2e2e}
+
+#operation {-fx-background-color: #f9a825; -fx-text-fill: #ffffff;-fx-font-size: 50}
+
+#clear { -fx-background-color: #c62828;-fx-text-fill: white; ;-fx-font-size: 50}
+
+#result {-fx-background-color: #0277bd; -fx-text-fill: white;-fx-font-size: 50}
+
+#nums { -fx-background-color: #00695c; -fx-text-fill: #ffffff;-fx-font-size: 50}
+
+.label { -fx-text-fill: #924ede; -fx-font-size: 80; -fx-font-weight: bolder}
